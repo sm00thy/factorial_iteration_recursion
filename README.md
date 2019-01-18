@@ -1,1 +1,1 @@
-Simple app showing factorial by recursion and iteration
+Simple app calculating factorial by recursion and iteration
